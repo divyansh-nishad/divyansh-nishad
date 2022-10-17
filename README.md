@@ -21,6 +21,6 @@
 
 ## My Tech Toolbox
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JAVA" width="40" height="40"/> 
+<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="JAVA" width="40" height="40"/> 
 
 </p>
