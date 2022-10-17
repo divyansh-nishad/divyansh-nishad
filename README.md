@@ -11,14 +11,14 @@
 
 
 ## GitHub Stats
-
+<p align="center">
 ![Divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyansh-nishad&theme=nightowl_icons=true)
 
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=divyansh-nishad)
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-nishad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 ## My Tech Toolbox
 <p align="left">
 <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="JAVA" width="40" height="40"/> 
