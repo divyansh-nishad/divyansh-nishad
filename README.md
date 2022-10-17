@@ -20,3 +20,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-nishad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Tech Toolbox
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JAVA" width="40" height="40"/> 
+
+</p>
