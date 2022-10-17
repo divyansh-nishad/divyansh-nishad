@@ -12,7 +12,7 @@
 
 ## GitHub Stats
 
-![Divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyansh-nishad&theme=nightowl_icons=true)
+![Divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyansh-nishad&theme=tokyonight_icons=true)
 
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=divyansh-nishad)
 
