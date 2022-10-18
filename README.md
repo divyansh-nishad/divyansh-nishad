@@ -16,7 +16,7 @@
 
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=divyansh-nishad)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/millenium103)](https://leetcode.com/millenium103)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/millenium103?theme=unicorn)](https://leetcode.com/millenium103)
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-nishad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
